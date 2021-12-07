@@ -1,0 +1,13 @@
+Filter:2nS, Volt: 1.0, Freq:1000 
+>>>> Passed
+Filter:2nS, Volt: 1.0, Freq:4000 
+>>>> Passed
+Filter:2nS, Volt: 1.0, Freq:6000 
+>>>> Passed
+Filter:2nS, Volt: 1.0, Freq:8000 
+>>>> Passed
+Filter:2nS, Volt: 1.0, Freq:10000 
+>>>> Passed
+Filter:2nS, Volt: 1.0, Freq:11000 
+>>>> Passed
+Filter:2nS, Volt: 1.0, Freq:12000 

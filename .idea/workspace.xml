@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="655539e0-d110-4f60-b74c-6a87fa9860e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3DCur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADCTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CriticalTempCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CurrentADC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DualPhase_High_Current_Warning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dualphase_Balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EFF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EFF_Dell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EFF_DualPhase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EFF_VINIR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EventCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HC_Warning_interrupt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/High_Current_Warning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Host _DIMM Region RV registers Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Increase_Decrease_VID.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/ADCAcc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/AVL_CHA_FL_VID_1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/AVL_CHb_FL_VID_1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/AVL_CHc_FL_VID_1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/CrossRegulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/CrossRegulation.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/CurADC_a.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/CurADC_b.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/CurADC_c.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/CurrentADC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/CurrentADC_a.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/CurrentADC_b.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/CurrentADC_c.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/EFF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/EFF_3030.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/EFF_3225.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/EFF_5V_750kHz_SWA_303012.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/EFF_5V_750kHz_SWB_303012.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/Intel_AVL_EFF_Summary.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/LDO1P8ADC_.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/LDO1V8ADC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/LineRegulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/LineRegulation.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/PowerADC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/PowerADC_a.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/PowerADC_b.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/PowerADC_c.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/SecureModeOperation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/SecureModeOperation.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/StartUP_OV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/TotalPowerADC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/TotalPowerADC.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/VID.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelAVL/VID.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LineRegulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoadRegulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MTP_FA_Analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NDThrsh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOA_burning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PGH_OV_Thresh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PGL_Thresh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PH_Event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quantization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegisterDump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegisterReadandSetting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ripple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SH_ErrorInjection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SH_Event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SH_PEC&amp;Parity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScopeScap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecureMode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TotalPowerADC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VIDTestA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VIDTestA_R51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VIDTestB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VIDTestB_R51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VIDTestC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VIDTestC_R51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VINADC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VOUTADC_RAILA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VOUTADC_RailB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VOUTADC_RailC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vout_ripple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I2C_filter_test_20211201-16_57_42_NL.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I2C_filter_test_20211203-15_04_39_FL.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I2C_filter_test_20211206-13_57_30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I2C_filter_test_20211206-13_57_30_FL.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I3C_filter_test_20211203-13_35_02.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I3C_filter_test_20211203-14_15_54.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I3C_filter_test_20211203-15_26_22.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I3C_filter_test_20211203-15_26_22_NL.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I3C_filter_test_20211203-15_59_37.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I3C_filter_test_20211203-16_02_03.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I3C_filter_test_20211203-16_03_15.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/I3C_filter_test_20211203-16_03_15_FL.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/P8910B0_I2C_I3C_Path Filter Scan_12062020 - update.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/P8910B0_Path Flter test_16Oct2021.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/scan_i2c_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/scan_i2c_filter_Fsw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/scan_i2c_filter_P8913A1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/scan_i3c_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/scan_i3c_filter_Fsw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_filter_scan/scan_i3c_filter_P8913A1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21vzmlOvJ2aUm1fHh82w2810EeM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyWork" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="655539e0-d110-4f60-b74c-6a87fa9860e1" name="Changes" comment="" />
+      <created>1638836511312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638836511312</updated>
+    </task>
+    <servers />
+  </component>
+</project>
